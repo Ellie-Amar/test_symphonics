@@ -2,9 +2,6 @@
 
 Repo pour le test technique backend Symphonics.
 
-Sujet :
-[Symphonics - Dev - Tech test.pdf](./Symphonics%20-%20Dev%20-%20Tech%20test.pdf)
-
 ## Etat du repos
 
 Je n'ai pas eu le temps de finir tout le sujet mais j'ai essayé de poser une base propre et cohérente pour montrer comment je comptais dérouler la suite.
